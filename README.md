@@ -83,20 +83,3 @@ python titanic_survival_prediction.py
 * You can easily swap the model with others from `sklearn` like `LogisticRegression` or `SVC`.
 
 ---
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
----
-
-## 🙋‍♀️ Contributions
-
-Feel free to fork the repo and submit pull requests if you'd like to improve the model, add visualizations, or try different algorithms!
-
-```
-
----
-
-**Try this version** and it should render nicely on GitHub with good spacing and alignment. Want me to help format any other part?
-```
